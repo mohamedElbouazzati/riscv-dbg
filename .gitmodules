@@ -1,0 +1,6 @@
+[submodule "src/include/tech_cells_generic"]
+	path = src/include/tech_cells_generic
+	url = https://github.com/pulp-platform/tech_cells_generic.git
+[submodule "src/include/common_cells"]
+	path = src/include/common_cells
+	url = https://github.com/pulp-platform/common_cells.git
